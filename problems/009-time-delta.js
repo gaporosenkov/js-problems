@@ -14,7 +14,7 @@
  *
  * @param {string} x
  * @param {string} y
- * @returns {number} разница между x и y в секундах
+ * @returns {number} рbазница между x и y в секундах
  */
 function getTimeDelta(x, y) {
     return undefined;
